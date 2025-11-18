@@ -19,7 +19,10 @@ Part 1: Run the Server
  * Clone the Repository:
    
    git clone [https://github.com/Tethi04/User-API-Flask/tree/main]
-   []
+   
+   [https://tethi04.github.io/User-API-Flask/]
+
+   
 cd User-API-Flask
 
    (Remember to replace YOUR-USERNAME with your actual GitHub username!)
