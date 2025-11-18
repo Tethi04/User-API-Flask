@@ -17,7 +17,9 @@ Features
 This is a server, not a normal script. You must run it first, then test it with a separate tool.
 Part 1: Run the Server
  * Clone the Repository:
-   git clone []
+   
+   git clone [https://github.com/Tethi04/User-API-Flask/tree/main]
+   []
 cd User-API-Flask
 
    (Remember to replace YOUR-USERNAME with your actual GitHub username!)
